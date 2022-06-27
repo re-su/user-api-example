@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "name": "OSGIUser1", "email": "osgi@oracle.com", "companyName": "Oracle" },
+    { "name": "OSGIUser2", "email": "osgi2@mc.com", "companyName": "MC" }
   ],
   "profile": {
     "name": "typicode"
